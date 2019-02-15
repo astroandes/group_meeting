@@ -1,4 +1,4 @@
-| Nombre | 1 | 2 | 3 | 4 (15.02) |
+| Nombre | 1 | 2 [1.02] | 3 [8.02] | 4 [15.02] |
 | ------- | --- | --- | --- |---|
 | Diego | :green_heart: | :green_heart: | :green_heart:| :green_heart:| 
 | John | :green_heart: | :green_heart: | :green_heart: | :green_heart:| 
