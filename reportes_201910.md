@@ -3,6 +3,6 @@
 | Diego | :green_heart: | :green_heart: | :green_heart:| :green_heart:| 
 | John | :green_heart: | :green_heart: | :green_heart: | :green_heart:| 
 | Felipe | :fire: | :fire: | :green_heart: | :green_heart: | 
-| Juan | :fire: | :fire: | :green_heart: | :fire: | 
+| Juan | :fire: | :fire: | :green_heart: | :green_heart: | 
 | Jairo | :fire: | :fire: | :green_heart: | :green_heart: | 
 | Valentina | :green_heart: | :fire: | :fire: | :green_heart: | 
