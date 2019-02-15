@@ -5,4 +5,4 @@
 | Felipe | :fire: | :fire: | :green_heart: | :green_heart: | 
 | Juan | :fire: | :fire: | :green_heart: | :fire: | 
 | Jairo | :fire: | :fire: | :green_heart: | :green_heart: | 
-| Valentina | :green_heart: | :fire: | :fire: | :fire: | 
+| Valentina | :green_heart: | :fire: | :fire: | :green_heart: | 
