@@ -1,8 +1,8 @@
-| Nombre | 1 | 2 [1.02] | 3 [8.02] | 4 [15.02] |
-| ------- | --- | --- | --- | --- |
-| Diego | :green_heart: | :green_heart: | :green_heart:| :green_heart:| 
-| John | :green_heart: | :green_heart: | :green_heart: | :green_heart:| 
-| Felipe | :fire: | :fire: | :green_heart: | :green_heart: | 
-| Juan | :fire: | :fire: | :green_heart: | :green_heart: | 
-| Jairo | :fire: | :fire: | :green_heart: | :green_heart: | 
-| Valentina | :green_heart: | :fire: | :fire: | :green_heart: | 
+| Nombre | 1 | 2 [1.02] | 3 [8.02] | 4 [15.02] | 5 [21.02] |
+| ------- | --- | --- | --- | --- | --- | --- |
+| Diego | :green_heart: | :green_heart: | :green_heart:| :green_heart:| :green_heart:| 
+| John | :green_heart: | :green_heart: | :green_heart: | :green_heart:| :green_heart:| 
+| Felipe | :fire: | :fire: | :green_heart: | :green_heart: | :green_heart:| 
+| Juan | :fire: | :fire: | :green_heart: | :green_heart: | :fire: |
+| Jairo | :fire: | :fire: | :green_heart: | :green_heart: | :fire: |
+| Valentina | :green_heart: | :fire: | :fire: | :green_heart: | :fire: |
