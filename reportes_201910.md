@@ -4,5 +4,5 @@
 | John | :green_heart: | :green_heart: | :green_heart: | :green_heart:| :green_heart:| :green_heart:| :green_heart:| :green_heart: | :green_heart: |
 | Felipe | :fire: | :fire: | :green_heart: | :green_heart: | :green_heart: | :green_heart:| :green_heart:| :green_heart: | :green_heart: |
 | Juan | :fire: | :fire: | :green_heart: | :green_heart: | :fire: |  :fire: | :green_heart:| :fire: | :fire: |
-| Jairo | :fire: | :fire: | :fire: | :green_heart: | :green_heart: |:green_heart: | :green_heart:| :fire: | :fire: |
+| Jairo | :fire: | :fire: | :fire: | :green_heart: | :green_heart: |:green_heart: | :green_heart:| :green_heart: | :green_heart: |
 | Valentina | :green_heart: | :fire: | :fire: | :green_heart: | :fire: |:green_heart:| :green_heart:| :fire: | :fire: |
